@@ -1,0 +1,36 @@
+.container{
+    align-content: center;
+    border-radius: 15px;
+    padding:30px;
+    width: 700px;
+    position:relative;
+    top:100px;
+    left:350px;
+    border: 1px solid darkslateblue;
+    box-shadow: rgba(255, 255, 255, 0.1) 0px 1px 1px 0px inset, rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    background-color: aqua;
+
+}
+h1{
+   text-align: center;
+   color: darkslateblue;
+}
+input{
+   padding: 8px;
+   width: 100%;
+   height: 30px;
+   border-radius: 8px;
+   border: 1px solid black;
+   margin:5px 0px;
+   font-size:15px;
+   
+}
+#btn{
+   width: 150px;
+   height: 40px;
+   padding:8px;
+   border-radius: 8px;
+   background-color: rgb(147, 140, 194);
+   border: 1px solid black;
+
+ }
